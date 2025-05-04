@@ -1,6 +1,6 @@
 """
 Canadian Election Simulator - Configuration Module
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 [Amin Behbudov, Fares Abdulmajeed Alabdulhadi, Tahmid Wasif Zaman, Dimural Murat]
 
 This module contains configuration constants used throughout the application.
 """
