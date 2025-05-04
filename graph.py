@@ -1,6 +1,6 @@
 """
 Canadian Election Simulator - Voter Transition Graph
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 [Amin Behbudov, Fares Abdulmajeed Alabdulhadi, Tahmid Wasif Zaman, Dimural Murat]
 
 This module handles building and manipulating voter transition graphs.
 """
