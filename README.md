@@ -1,4 +1,4 @@
-# CSC111 Project Proposal: Canadian Federal Election Polling and Seat Projections
+# CSC111 Project: Canadian Federal Election Polling and Seat Projections
 
 **Authors**: Amin Behbudov, Fares Abdulmajeed Alabdulhadi, Tahmid Wasif Zaman, Dimural Murat  
 **Date**: Monday, March 31st, 2025
